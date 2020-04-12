@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bus_stop.dir/main.cpp.o  -o bus_stop 
